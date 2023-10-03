@@ -1,0 +1,42 @@
+Terminal Commands Cheatsheet:
+
+How to check that you're in the right directory:
+Type into the terminal:
+
+pwd
+
+Example of what it should come up with:
+
+/Users/josephcarpentieri
+
+
+
+How to check all the folders and files in the current directory:
+Type into the terminal:
+
+ls
+
+Example of what it should come up with:
+
+folder	folder2	folder3
+
+
+How to show all the files and folders within the folder (even the hidden ones):
+Type into the terminal:
+
+ls -al
+
+Example of what it should come up with:
+
+total 7
+Random letters, name, more file details etc.
+Random letters, name, more file details etc.
+Random letters, name, more file details etc.
+
+
+How to create a file:
+Type into the terminal:
+
+mkdir fileName
+
+There will be no visual showing this has been created, but if it inputs and no errors come up this is good!
